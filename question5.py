@@ -5,5 +5,5 @@ while True:
     while i<op:
         pass
     if op==N:
-#         break
-    #code yet to complete
+        break
+#code yet to complete
