@@ -2,7 +2,8 @@ N=int(input("Enter: "))
 i=1
 op=1
 while True:
-    if N%op==0:
-        op+=1
-    op+=1
+    while i<op:
+        pass
+    if op==N:
+#         break
     #code yet to complete
